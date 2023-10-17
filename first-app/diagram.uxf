@@ -1,14 +1,14 @@
-<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>160</x><y>170</y><w>210</w><h>70</h></coordinates><panel_attributes>Package::bmt
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>20</x><y>20</y><w>210</w><h>70</h></coordinates><panel_attributes>Package::bmt
 --
 /+main()/
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>180</y><w>210</w><h>190</h></coordinates><panel_attributes>Package::bmt
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>30</y><w>210</w><h>190</h></coordinates><panel_attributes>Package::bmt
 --
 /+getName() : String/
 /+getAge() : Int/
 --
 /-Name : String/
 /+Age() : Int/
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>200</x><y>420</y><w>210</w><h>190</h></coordinates><panel_attributes>Package::bmt
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>60</x><y>270</y><w>210</w><h>190</h></coordinates><panel_attributes>Package::bmt
 --
 /+getCity() : String/
 /+getStreet() : String/
@@ -16,4 +16,4 @@
 --
 /-city() : String/
 /-street() : String/
-/-postalCode() : String/</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>220</y><w>140</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;40</additional_attributes></element><element><id>Relation</id><coordinates><x>290</x><y>260</y><w>60</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;40;150</additional_attributes></element></diagram>
+/-postalCode() : String/</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>70</y><w>140</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;40</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>110</y><w>60</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;40;150</additional_attributes></element></diagram>
