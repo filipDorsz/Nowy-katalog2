@@ -17,7 +17,7 @@ public class App {
     System.out.print("Podaj ulicę: ");
     String street = scanner.nextLine(); //baaasdasdasd
 
-    System.out.print("Podaj miasto: ");
+    System.out.print("Podaj miasto: ");//abc
     String city = scanner.nextLine();
 
     System.out.print("Podaj kod pocztowy: ");
