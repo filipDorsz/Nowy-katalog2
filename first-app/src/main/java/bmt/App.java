@@ -12,10 +12,10 @@ public class App {
     System.out.print("Podaj wiek: ");
     int age = scanner.nextInt();
 
-    scanner.nextLine(); // Odczyt zbędnej nowej linii
+    scanner.nextLine(); // Odczyt nowej linii
 
     System.out.print("Podaj ulicę: ");
-    String street = scanner.nextLine(); //komentarzkdk
+    String street = scanner.nextLine(); //baaasdasdasd
 
     System.out.print("Podaj miasto: ");
     String city = scanner.nextLine();
