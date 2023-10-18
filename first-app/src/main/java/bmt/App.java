@@ -15,7 +15,7 @@ public class App {
     scanner.nextLine(); // Odczyt zbędnej nowej linii
 
     System.out.print("Podaj ulicę: ");
-    String street = scanner.nextLine();
+    String street = scanner.nextLine(); //komentarzkdk
 
     System.out.print("Podaj miasto: ");
     String city = scanner.nextLine();
